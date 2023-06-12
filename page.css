@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+}
+
+body{
+    background: url(https://e0.pxfuel.com/wallpapers/547/739/desktop-wallpaper-red-triangles-geometric-pattern-neon-k-mocah.jpg)no-repeat center center/cover;
+}
+
+.container{
+    margin: 60px 160px;
+    padding: 15px 16px;
+    border-radius: 12px;
+    color: white;
+}
+
+
+fieldset{
+    border-radius: 12px;
+    border:  solid 4px rgb(0, 228, 232);
+}
+
+legend{
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+    font-weight: bolder;
+    border: solid 4px rgb(46, 255, 116);
+    border-radius: 8px;
+    margin: 15px 14px;
+    padding: 15px 14px;
+}
+
+.section{
+    font-size: 2rem;
+    margin: 25px;
+}
+
+input{
+    font-size: 1.5rem;
+    padding: 2px 6px;
+}
+
+.section #btn{
+    width: 150px;
+    padding: 4px 7px;
+    border: solid 4px rgb(19, 21, 20);
+    border-radius: 8px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.section #btn:hover{
+    color: rgb(89, 255, 63);
+    background-color: rgb(0, 0, 0);
+    border: solid 2px rgb(218, 255, 236);
+}
